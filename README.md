@@ -1,4 +1,4 @@
-# hello-word
+# Machine-learning-projects
 
 Hi,
 
