@@ -1,0 +1,26 @@
+REQUIREMENTS:
+
+Python version:
+Python 3.6.1 :: Anaconda 4.4.0 (x86_64)
+
+Packages used:
+- nltk version 3.2.3
+- sklearn version 0.18.1
+
+Trained classifier to be loaded with joblib:
+- classifier.pkl
+
+PYTHON FILES DESCRIPTION:
+
+Model training and testing: model.py
+Python command: restore_case.py
+
+HOW TO RUN FROM COMMAND LINE:
+
+python restore_case.py 'Text_upper.txt' 
+
+TESTING TEXT FILES:
+
+Plain text files produced from the test set of nltk.corpus.treebank with 3 sentences that give a good overview of the performances and limitations of the method:
+- mixed case text (target): Text_mixed.txt
+- upper case text: Text_upper.txt 
