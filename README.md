@@ -1,5 +1,3 @@
 # Machine-learning-projects
 
-Hi,
-
-this is a change to the master file.
+This is a repository with different Machine Learning projects
